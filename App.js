@@ -9,5 +9,5 @@ import SignInScreen from "./src/SignInScreen";
 
 export default () =>
   <Provider store={store}>
-    <SignInScreen />
+    <Home />
   </Provider>;
